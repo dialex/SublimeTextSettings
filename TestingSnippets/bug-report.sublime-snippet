@@ -1,0 +1,18 @@
+<snippet>
+  <content>
+ISSUE ${1:number}
+
+**Steps**
+
+1. ${2:First step to reproduce}
+
+**Expected**
+
+**Actual**
+
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>bugr</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
