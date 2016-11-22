@@ -1,3 +1,4 @@
 [
-	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
+  { "keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser", "parser": "markdown" } },
+  { "keys": ["super+k", "super+p"], "command": "permute_lines", "args": {"operation": "unique"} }
 ]
