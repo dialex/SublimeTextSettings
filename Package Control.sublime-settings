@@ -2,9 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Chain of Command"
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"Babel",
 		"Color Highlighter",
 		"Cucumber",
 		"Indent XML",
