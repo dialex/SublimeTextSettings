@@ -9,6 +9,8 @@
 		"Babel",
 		"Color Highlighter",
 		"Cucumber",
+		"Dockerfile Syntax Highlighting",
+		"Dotfiles Syntax Highlighting",
 		"HTML-CSS-JS Prettify",
 		"Indent XML",
 		"JavaScriptNext - ES6 Syntax",
@@ -22,6 +24,8 @@
 		"PackageResourceViewer",
 		"Pretty JSON",
 		"RSpec",
+		"SublimeLinter",
+		"SublimeLinter-shellcheck",
 		"Theme - Soda"
 	]
 }
