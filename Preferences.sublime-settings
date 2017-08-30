@@ -11,9 +11,12 @@
 		"tokenization",
 		"prefilled",
 		"enquiries",
-		"enquiry"
+		"enquiry",
+		"app",
+		"screenshot",
+		"pre"
 	],
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 14,
 	"hot_exit": false,
